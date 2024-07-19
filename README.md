@@ -1,50 +1,41 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Amazon PartyRock Daily Task Scheduler</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this project i will using PartyRock to develop a 'Daily Task Scheduler Application'. PartyRock is a new platform offered by AWS designed to simplify app development through the use of generative AI.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Services used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>AWS PartyRock</b> 
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Visit the website: https://partyrock.aws/ <br/>
+<img src="https://imgur.com/YllliPf"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created my first project by clicking on "Build your own app"  <br/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Entered a test discription  <br/>
+<img src="https://imgur.com/8n2qQmN"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I added a joke topic and clicked the play button  <br/>
+<img src="https://imgur.com/2s78cK9"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PartyRock generated a joke and an image  <br/>
+<img src="https://imgur.com/UG3qams"/> <br/>
+<img src="https://imgur.com/Rre09jk"/> 
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After testing it out I started   <br/>
+
 </p>
 
 <!--
