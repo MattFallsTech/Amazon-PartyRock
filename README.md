@@ -69,6 +69,9 @@ Next i published the application and made it public by clicking on the green arr
 <img src="https://imgur.com/mH2CmSU.png" width="80%"/>
 <br />
 <br />
+You are able to see my application by using this link https://partyrock.aws/u/MattFalls/ngqDydA0R/DailyTaskSched <br/>
+<br />
+<br />
  
 </p>
 
